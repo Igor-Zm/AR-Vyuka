@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ARToggle
+  m_Controller: {fileID: 9100000, guid: 3b62c0633dcb3c5419c7c7e5caef90f3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ed7331bc8e748764f8c78109a709d823, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 575e9d96d7e0e1544a3780ac13480855, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5a7db6d8fc5ef044c9ce9a459b766cf6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3b8e5552a4d532441b0c1bff7897509e, type: 2}
