@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 using TMPro;
 using MathExpParser;
 using org.mariuszgromada.math.mxparser;
-using UniVRM10;
+//using UniVRM10;
 
 
 public class eval2DController : MonoBehaviour

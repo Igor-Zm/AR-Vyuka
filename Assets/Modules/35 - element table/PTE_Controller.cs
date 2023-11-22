@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using UniGLTF;
+//using UniGLTF;
 using TMPro;
 using UnityEngine;
 
@@ -44,7 +44,7 @@ public class PTE_Controller : MonoBehaviour
     }
     void Start()
     {
-        cubes = parent.GetChildren().ToArray();
+        cubes = parent.GetComponentsInChildren<Transform>();
 
         texts = new List<string>();
         texts.Add(" ");

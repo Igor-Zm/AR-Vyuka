@@ -6,132 +6,141 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/XR/mainScene.unity
+    guid: 85cceec8a2cb9224a8d4c6e9d82b71f2
+  - enabled: 0
+    path: Assets/Modules/37 - bio stuff/6/Bio_Stuff_6_AR.unity
+    guid: 1c68fc69d616d12489ac115c77ef6d77
+  - enabled: 0
     path: Assets/_UI/UI scene.unity
     guid: 92b5bac2c24c57644981d52948ff0984
-  - enabled: 1
+  - enabled: 0
     path: Assets/AR System/ARTemplate.unity
     guid: be64e8af1270dda4183e18634e92ac52
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/11 - Brownien motion/AR Scene.unity
     guid: 5f56af14bc265c04ab14ae749ae0a762
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/12 - Mach cradle/ARScene.unity
     guid: 26fbd490804bc484483b6e554b1bc5a2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/15 - Basic Geo Solids/Scenes/AR geo.unity
     guid: fe26289c1d673a24881de9a01c527b0f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/14 - Platonic Solids/Scenes/AR platonic.unity
     guid: 37b009367005a6c45802fe10a79799eb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/2 - Planet Comparison/Scenes/AR planets.unity
     guid: ac25906467471294eb12cddb1f51c9ca
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/0 - Planets/AR_Planets.unity
     guid: 3bcefc38b452b8d4c8cc541460488971
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/1 - Solar System/Scenes/AR_Solar_system.unity
     guid: 74a3559f7fda0be46b92941487a8226f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/5 - Lissajous curve/AR curves.unity
     guid: e2dc5b99ea073e142a29ccd0efffc5be
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/13 - 3D Vectors/AnalyticGeometryPlaneLine.unity
     guid: 8d7710f169387da4989459614b742012
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/13 - 3D Vectors/AnalyticGeometryPlanesMutalPosition.unity
     guid: 7d100e0cc16f174428981406c0db8854
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/13 - 3D Vectors/AnalyticGeometry.unity
     guid: 492d6cc88276e314bb3292525bfd301d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/13 - 3D Vectors/VectorAddition.unity
     guid: 903ef78a2f861f043acf9c0d744d1ad1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/13 - 3D Vectors/VectorCrossProduct.unity
     guid: acfd744e5f7fe97469bc687affae5f0a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/12 - Elements/Elements.unity
     guid: b2a1014a97e74d54b9e4428a4ab30ca9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/6 - Bernoullis principle/Bernoullis principle.unity
     guid: d224b362f39628e47bf366ba0e648df0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/6 - Newton's Cradle/Scenes/Cradle.unity
     guid: c05a946c512ada6449a92f6391be18fb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/7 - Photovoltaic effect/Scenes/AR Photovoltaic.unity
     guid: d1c5a3198afe66441b5427bfe6bb1e3d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/8 - Cloud/AR Cloud.unity
     guid: d61da35789888c140baa3d7ed6d9ac08
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/10 - Telescope/Scene/Scene.unity
     guid: a658988c7e4696f48b1f33d49fbfd4ed
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/16 - 2D Function Eval/eval2D.unity
     guid: b38b232f6c9adac46998c6707740cb9c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/17 - 3D Function Eval/eval3d.unity
     guid: 56cf54da262384941aea3f03ce11239c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/18 - Diffuse/18 - Diffuse.unity
     guid: cd2ad4a6bc80ec64dbf061ec4df5241c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/19 - phase diagram/19_phaseDiagram.unity
     guid: 506c9efb5ec595b4eb4ca39c208e4845
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/20 - Ice Ages/ARIceAge.unity
     guid: 5ec64e4c21a2b0a4a997452b773ab960
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/21 - Human Migration/21 migration.unity
     guid: 68973ea7dc4de224da7d854067e6a3e1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/22 - parabola/22 - parabola.unity
     guid: 5456d457a81b19740994c0732521894b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/23 - sinus/sinusEval.unity
     guid: 0f5ec3660d47f824d90ecca998e6d56c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/24 - Ellipse/EllipseEval.unity
     guid: 436f7daa2dfdaae4593fb2d7c2548e0e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/25 - Engine/25 - Engine.unity
     guid: f5bbec14cca19494889d0a618d4b4ac9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/26 - pangea/pangea.unity
     guid: 7d4b9b67f25f56d4f96bc94b3ff296a0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/27 - WW2/ww2.unity
     guid: 0557ec55186cbbf43bc92b15a0a90b32
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/28 - WW1/ww1.unity
     guid: 5855345153b55cc47878142d820d85bf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/29 - legionaires/29 legions.unity
     guid: 36e222d8b736c4648b34a3228b093a86
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/30 - empires/empiresEarth.unity
     guid: b6035192360ea194a9fe7b6018be99a5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/31 - additive color/31 - additive.unity
     guid: de0e6e84881859c4e97f1caf8779dff2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/32 - subtractive/subtractiveColors.unity
     guid: 7104b3fe42c80404f9ab5a414fea88a6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/33 - Sound Generator/33 - Sound.unity
     guid: b87812f6bce6a3046b46ad9d5870eeab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/34 - moon/Moon AR.unity
     guid: 718ebd6fe3f61db47ab3073ca434ab76
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/36 - days/days AR.unity
     guid: 29f78ffdbdd055d47b4598182101737f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Modules/35 - element table/elements Table AR.unity
     guid: 6948bf8b9c4e83b4f8e663af1c1fa3e4
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1796eda9db6292347830f9a789a97343, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d6a64efeeac17c748bcfe1ed1e472906, type: 2}
     com.needle.xr.management.arsimulation_loader: {fileID: 11400000, guid: 8bd5606aaf83b224ea45d84a9ea9059e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2392f5caf636e5543aea768e013794a8, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 38b8de501f442214bac9b023dbf5f938, type: 2}
+  m_UseUCBPForAssetBundles: 0
