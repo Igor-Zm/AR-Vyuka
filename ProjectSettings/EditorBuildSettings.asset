@@ -124,5 +124,6 @@ EditorBuildSettings:
     guid: b87812f6bce6a3046b46ad9d5870eeab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d6a64efeeac17c748bcfe1ed1e472906, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6554af3303db4c4439b78d8a46ca4330, type: 2}
     com.needle.xr.management.arsimulation_loader: {fileID: 11400000, guid: 8bd5606aaf83b224ea45d84a9ea9059e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 38b8de501f442214bac9b023dbf5f938, type: 2}
