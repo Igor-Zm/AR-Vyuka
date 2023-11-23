@@ -1262,6 +1262,16 @@ MonoBehaviour:
     moduleSceneIndex: 45
     categoriesEnumInstance: 5
     categoriesEnumInstance2: 5
+  - coverText: "Mit\xF3za a Mei\xF3za"
+    coverImage: {fileID: 2800000, guid: 4a63c697c302c0c47a6057e1bee8937e, type: 3}
+    moduleSceneIndex: 46
+    categoriesEnumInstance: 5
+    categoriesEnumInstance2: 5
+  - coverText: "F\xE1ze Mit\xF3zy"
+    coverImage: {fileID: 2800000, guid: 56b8478bb13d32e45872dff0cdc16a7b, type: 3}
+    moduleSceneIndex: 47
+    categoriesEnumInstance: 5
+    categoriesEnumInstance2: 5
   modulePrefab: {fileID: 6966805135343327383, guid: 8d8b7274815c3af418cf0b88fefaf028, type: 3}
   contentModuleScroll: {fileID: 0}
   onScreenCanvas: {fileID: 0}
