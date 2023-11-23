@@ -191,6 +191,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8272040899346514325}
+  - component: {fileID: 2138761108258256367}
   m_Layer: 0
   m_Name: Axis RGB
   m_TagString: Untagged
@@ -216,6 +217,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2138761108258256367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2091322885293707691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b2eefadf9bf2941911f58f73dc7626, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  camera: {fileID: 0}
+  tolerance: 0.1
+  axisX: {fileID: 3347896209968612883}
+  axisY: {fileID: 3347896209609497998}
+  axisZ: {fileID: 1004715149727847382}
 --- !u!1 &3347896209609497998
 GameObject:
   m_ObjectHideFlags: 0

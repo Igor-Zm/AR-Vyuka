@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.000039417755, g: 0.000039417755, b: 0.000039417755, a: 1}
+  m_IndirectSpecularColor: {r: 0.00004179169, g: 0.00004202592, b: 0.00008290551, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1881,6 +1881,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5808353740662446822, guid: 2cb963ad35137e045bbd00baf88ecb4d, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7244771699726788101, guid: 2cb963ad35137e045bbd00baf88ecb4d, type: 3}
       propertyPath: m_Name
       value: VENUS
@@ -2367,6 +2371,10 @@ PrefabInstance:
     - target: {fileID: 436760093374277719, guid: c1a7036d0cf5fa442987c444fed584dc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3875275658581286694, guid: c1a7036d0cf5fa442987c444fed584dc, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4178530785979988460, guid: c1a7036d0cf5fa442987c444fed584dc, type: 3}
       propertyPath: m_IsActive
@@ -5128,6 +5136,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3875275658581286694, guid: c1a7036d0cf5fa442987c444fed584dc, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4178530785979988460, guid: c1a7036d0cf5fa442987c444fed584dc, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -5219,6 +5231,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1569169540301333383, guid: e289aa2efb65bee439438e20017847cb, type: 3}
       propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569169540301333383, guid: e289aa2efb65bee439438e20017847cb, type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4209482661018562736, guid: e289aa2efb65bee439438e20017847cb, type: 3}
@@ -5679,14 +5695,14 @@ MonoBehaviour:
   - 25
   space: 0
   names:
-  - Mercury
-  - Venus
-  - Earth
+  - Merkur
+  - "Venu\u0161e"
+  - "Zem\u011B"
   - Mars
   - Jupiter
   - Saturn
   - Uran
-  - Neptune
+  - Neptun
   leftText: {fileID: 6795484628386107501}
   rightText: {fileID: 6795484627757356920}
 --- !u!4 &1057529163
@@ -5950,6 +5966,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7798062944477852029, guid: 87833aaeadc7a4549b08cb6d2a44a1b3, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8786149685287845086, guid: 87833aaeadc7a4549b08cb6d2a44a1b3, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -5966,6 +5986,10 @@ PrefabInstance:
     - target: {fileID: 1207930071065367407, guid: 48a4f176d4bc950478298887178e6ad1, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3855813955376791498, guid: 48a4f176d4bc950478298887178e6ad1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4333948159940466680, guid: 48a4f176d4bc950478298887178e6ad1, type: 3}
       propertyPath: m_Name
@@ -6050,6 +6074,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3855813955376791498, guid: 48a4f176d4bc950478298887178e6ad1, type: 3}
       propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3855813955376791498, guid: 48a4f176d4bc950478298887178e6ad1, type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4333948159940466680, guid: 48a4f176d4bc950478298887178e6ad1, type: 3}
@@ -7752,6 +7780,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7798062944477852029, guid: 87833aaeadc7a4549b08cb6d2a44a1b3, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 87833aaeadc7a4549b08cb6d2a44a1b3, type: 3}
 --- !u!1 &1548337101
@@ -9427,6 +9459,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1569169540301333383, guid: e289aa2efb65bee439438e20017847cb, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4209482661018562736, guid: e289aa2efb65bee439438e20017847cb, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -9621,6 +9657,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5808353740662446822, guid: 2cb963ad35137e045bbd00baf88ecb4d, type: 3}
       propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5808353740662446822, guid: 2cb963ad35137e045bbd00baf88ecb4d, type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7244771699726788101, guid: 2cb963ad35137e045bbd00baf88ecb4d, type: 3}

@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using UniGLTF;
+using System.Security.Cryptography;
 using TMPro;
 using UnityEngine;
 
@@ -27,24 +27,43 @@ public class PTE_Controller : MonoBehaviour
     public float GetValueDefault(int index) {
         return 1f;
     }
-    public float GetValueAtomicWeight(int index) {
+    public float GetValueAtomicWeight(int index)
+    {
+        if (index >= atomicWeights.Length)
+            return 1f;
         return 1f + atomicWeights[index] / 100;
     }
     public float GetValueElectronegativity(int index) {
+        if (index >= electronegativities.Length)
+            return 1f;
         return 1f + electronegativities[index] ;
     }
-    public float GetValueMelting(int index) {
+    public float GetValueMelting(int index)
+    {
+        if (index >= meltingPoints.Length)
+            return 1f;
         return 1f + Mathf.InverseLerp(-300f,4000f, meltingPoints[index])*6f ;
     }
-    public float GetValueDensity(int index) {
+    public float GetValueDensity(int index)
+    {
+        if (index >= densities.Length)
+            return 1f;
         return 1f + densities[index]/3f ;
     }
-    public float GetValueThermalConductivity(int index) {
+    public float GetValueThermalConductivity(int index)
+    {
+        if (index >= thermalConductivities.Length)
+            return 1f;
         return 1f + thermalConductivities[index]/80 ;
     }
     void Start()
     {
-        cubes = parent.GetChildren().ToArray();
+        cubes = new Transform[parent.childCount];
+        for (int i = 0; i < parent.childCount; i++)
+        {
+            cubes[i] = parent.GetChild(i);
+        }
+        
 
         texts = new List<string>();
         texts.Add(" ");

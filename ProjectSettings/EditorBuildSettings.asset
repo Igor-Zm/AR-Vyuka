@@ -131,6 +131,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Modules/35 - element table/elements Table AR.unity
     guid: 6948bf8b9c4e83b4f8e663af1c1fa3e4
+  - enabled: 1
+    path: Assets/Modules/4 - Human Body/AR Body.unity
+    guid: 34df291af10dafb4fbd9ee5824ec6856
+  - enabled: 1
+    path: Assets/Modules/37 - bio stuff/1/Bio_Stuff_1_AR_v2.unity
+    guid: 2b10546e344eb3c47b20b814f7c74e41
+  - enabled: 1
+    path: Assets/Modules/37 - bio stuff/2/Bio_Stuff_2_AR.unity
+    guid: ec38a4a3b9be65a49b1a517014dc1673
+  - enabled: 1
+    path: Assets/Modules/37 - bio stuff/6/Bio_Stuff_6_AR.unity
+    guid: 1c68fc69d616d12489ac115c77ef6d77
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d6a64efeeac17c748bcfe1ed1e472906, type: 2}
     com.needle.xr.management.arsimulation_loader: {fileID: 11400000, guid: 8bd5606aaf83b224ea45d84a9ea9059e, type: 2}

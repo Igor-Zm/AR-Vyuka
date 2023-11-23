@@ -1227,21 +1227,41 @@ MonoBehaviour:
     moduleSceneIndex: 38
     categoriesEnumInstance: 2
     categoriesEnumInstance2: 2
-  - coverText: Moon
-    coverImage: {fileID: 2800000, guid: 6a2b607f92840b8418b659f5a01553a7, type: 3}
+  - coverText: "M\u011Bs\xEDc"
+    coverImage: {fileID: 2800000, guid: 3d032c2bc4610b943b9831c97dcf04f1, type: 3}
     moduleSceneIndex: 39
     categoriesEnumInstance: 2
     categoriesEnumInstance2: 2
-  - coverText: Days
-    coverImage: {fileID: 2800000, guid: 6a2b607f92840b8418b659f5a01553a7, type: 3}
+  - coverText: "Srovn\xE1n\xED rychlost\xED rotac\xED planet"
+    coverImage: {fileID: 2800000, guid: f9e74dea97aa24a47a6e91c51940d9ac, type: 3}
     moduleSceneIndex: 40
     categoriesEnumInstance: 2
     categoriesEnumInstance2: 2
-  - coverText: Peri soust
-    coverImage: {fileID: 2800000, guid: 6a2b607f92840b8418b659f5a01553a7, type: 3}
+  - coverText: "Periodick\xE1 soustava prvk\u016F"
+    coverImage: {fileID: 2800000, guid: 1bee800acaa1631498f2700b5d523053, type: 3}
     moduleSceneIndex: 41
     categoriesEnumInstance: 3
     categoriesEnumInstance2: 3
+  - coverText: "Lidsk\xE9 t\u011Blo"
+    coverImage: {fileID: 2800000, guid: 3801efb1e34715d41926f6da451418d4, type: 3}
+    moduleSceneIndex: 42
+    categoriesEnumInstance: 5
+    categoriesEnumInstance2: 5
+  - coverText: Chromozon X a DNA
+    coverImage: {fileID: 2800000, guid: 8b2b7a4cba37a3e4b94291a52bf84b21, type: 3}
+    moduleSceneIndex: 43
+    categoriesEnumInstance: 5
+    categoriesEnumInstance2: 5
+  - coverText: "Bu\u0148ky"
+    coverImage: {fileID: 2800000, guid: 15686e7abeb2fdc41826c5267397ee86, type: 3}
+    moduleSceneIndex: 44
+    categoriesEnumInstance: 5
+    categoriesEnumInstance2: 5
+  - coverText: "Lidsk\xE1 k\u016F\u017Ee"
+    coverImage: {fileID: 2800000, guid: 9440990f82a05d845a730f0517356765, type: 3}
+    moduleSceneIndex: 45
+    categoriesEnumInstance: 5
+    categoriesEnumInstance2: 5
   modulePrefab: {fileID: 6966805135343327383, guid: 8d8b7274815c3af418cf0b88fefaf028, type: 3}
   contentModuleScroll: {fileID: 0}
   onScreenCanvas: {fileID: 0}
