@@ -529,7 +529,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1897649882}
   m_Father: {fileID: 780175717}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1272,6 +1273,26 @@ MonoBehaviour:
     moduleSceneIndex: 47
     categoriesEnumInstance: 5
     categoriesEnumInstance2: 5
+  - coverText: "Gluk\xF3za a Sachar\xF3za"
+    coverImage: {fileID: 2800000, guid: 99bb6d5713ff86d4a8a47f88871ec59e, type: 3}
+    moduleSceneIndex: 48
+    categoriesEnumInstance: 3
+    categoriesEnumInstance2: 3
+  - coverText: Struktura planety
+    coverImage: {fileID: 2800000, guid: 5cd1c7076a39ca64f8f8df2ad0405b71, type: 3}
+    moduleSceneIndex: 49
+    categoriesEnumInstance: 2
+    categoriesEnumInstance2: 3
+  - coverText: Galtonova deska
+    coverImage: {fileID: 2800000, guid: 5a87154404e474f4c8634eb70c42c1b5, type: 3}
+    moduleSceneIndex: 50
+    categoriesEnumInstance: 1
+    categoriesEnumInstance2: 2
+  - coverText: "Pol\xE1rn\xED soustava sou\u0159adnic"
+    coverImage: {fileID: 2800000, guid: ca20c7384a747ca4ca06742a3ec2156f, type: 3}
+    moduleSceneIndex: 51
+    categoriesEnumInstance: 1
+    categoriesEnumInstance2: 1
   modulePrefab: {fileID: 6966805135343327383, guid: 8d8b7274815c3af418cf0b88fefaf028, type: 3}
   contentModuleScroll: {fileID: 0}
   onScreenCanvas: {fileID: 0}
@@ -1814,6 +1835,82 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1765884588}
   m_CullTransparentMesh: 0
+--- !u!1 &1897649881
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1897649882}
+  - component: {fileID: 1897649884}
+  - component: {fileID: 1897649883}
+  m_Layer: 5
+  m_Name: logo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1897649882
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1897649881}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 305704885}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -725.06537, y: -486.84537}
+  m_SizeDelta: {x: -1451.5713, y: -973.8905}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1897649883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1897649881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 1540253e9212a454fbfc32ee23f457fe, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1897649884
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1897649881}
+  m_CullTransparentMesh: 1
 --- !u!1 &1980384649
 GameObject:
   m_ObjectHideFlags: 0
