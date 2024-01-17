@@ -101,6 +101,7 @@ Material:
     - _OcclusionStrength: 1
     - _Offset: 0.01
     - _Parallax: 0.005
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _RECEIVE_SHADOWS_OFF: 0
     - _ReceiveShadows: 1

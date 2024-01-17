@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.000039417755, g: 0.000039417755, b: 0.000039417755, a: 1}
+  m_IndirectSpecularColor: {r: 0.00004179169, g: 0.00004202592, b: 0.00008290551, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5356,14 +5356,14 @@ MonoBehaviour:
   - 50
   space: 1
   names:
-  - Mercury
-  - Venus
-  - Earth
+  - Merkur
+  - "Venu\u0161e"
+  - "Zem\u011B"
   - Mars
   - Jupiter
   - Saturn
   - Uran
-  - Neptune
+  - Neptun
   leftText: {fileID: 6795484628386107501}
   rightText: {fileID: 6795484627757356920}
 --- !u!4 &1057529163

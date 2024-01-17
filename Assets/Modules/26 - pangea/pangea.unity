@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.000039417755, g: 0.000039417755, b: 0.000039417755, a: 1}
+  m_IndirectSpecularColor: {r: 0.00004179169, g: 0.00004202592, b: 0.00008290551, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5617,147 +5617,35 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Merkur\r\nje planeta v na\u0161\xED slune\u010Dn\xED soustav\u011B a je
-    nejbli\u017E\u0161\xED planetou k Slunci. Je to nejmen\u0161\xED planeta v na\u0161\xED
-    slune\u010Dn\xED soustav\u011B a je jen o n\u011Bco v\u011Bt\u0161\xED ne\u017E
-    M\u011Bs\xEDc Zem\u011B. Merkur ob\xEDh\xE1 Slunce za p\u0159ibli\u017En\u011B
-    88 pozemsk\xFDch dn\xED a rotuje kolem sv\xE9 osy jednou za 59 pozemsk\xFDch
-    dn\xED.\r\n\r\nKv\u016Fli sv\xE9 bl\xEDzkosti ke Slunci je Merkur extr\xE9mn\u011B
-    horkou planetou s teplotami dosahuj\xEDc\xEDmi a\u017E 800 stup\u0148\u016F Fahrenheita
-    (430 stup\u0148\u016F Celsia) na jeho povrchu b\u011Bhem dne. Nicm\xE9n\u011B
-    kv\u016Fli absenci atmosf\xE9ry, kter\xE1 by udr\u017Eovala teplo, klesaj\xED
-    teploty na jeho povrchu na velmi n\xEDzk\xFDch -290 stup\u0148\u016F Fahrenheita
-    (-180 stup\u0148\u016F Celsia) v noci.\r\n\r\nMerkur m\xE1 hornat\xFD, kr\xE1terovit\xFD
-    povrch s dlouh\xFDmi, strm\xFDmi \xFAtesy, zn\xE1m\xFDmi jako scarpy. Nem\xE1
-    \u017E\xE1dn\xE9 m\u011Bs\xEDce ani prstence a m\xE1 velmi \u0159\xEDdkou atmosf\xE9ru.
-    Kv\u016Fli sv\xE9 bl\xEDzkosti ke Slunci je Merkur obt\xED\u017En\u011B studovatelnou
-    planetou z pozemsk\xE9ho povrchu a byl nav\u0161t\xEDven pouze dv\u011Bma kosmick\xFDmi
-    sondami: Mariner 10 v letech 1974 a 1975 a Messenger, kter\xFD ob\xEDhal planetu
-    od roku 2011 do roku 2015.\r\n\r\n\r\n\r\n\r\nVenu\u0161e\r\nje planeta v na\u0161\xED
-    slune\u010Dn\xED soustav\u011B a je druhou planetou od Slunce. Je to nejjasn\u011Bj\u0161\xED
-    objekt na no\u010Dn\xED obloze po M\u011Bs\xEDci a m\xE1 n\u011Bkdy p\u0159ezd\xEDvku
-    \"Ve\u010Dern\xED hv\u011Bzda\" nebo \"Rann\xED hv\u011Bzda\".\r\n\r\nVenu\u0161e
-    je podobn\u011B velk\xE1 jako Zem\u011B, ale m\xE1 velmi hustou atmosf\xE9ru
-    slo\u017Eenou p\u0159ev\xE1\u017En\u011B z oxidu uhli\u010Dit\xE9ho, co\u017E
-    zp\u016Fsobuje siln\xFD sklen\xEDkov\xFD efekt a vysok\xE9 teploty na jej\xEDm
-    povrchu. Teploty na povrchu Venu\u0161e jsou v pr\u016Fm\u011Bru p\u0159es 460
-    stup\u0148\u016F Celsia, co\u017E je nejvy\u0161\u0161\xED teplota na povrchu
-    ze v\u0161ech planet v na\u0161\xED slune\u010Dn\xED soustav\u011B.\r\n\r\nVenu\u0161e
-    m\xE1 hornat\xFD povrch s mno\u017Estv\xEDm sope\u010Dn\xFDch vrcholk\u016F a
-    je pokryta hust\xFDmi mraky s\xEDry. Tyto mraky zp\u016Fsobuj\xED, \u017Ee povrch
-    Venu\u0161e nen\xED viditeln\xFD p\u0159i pozorov\xE1n\xED z vesm\xEDru pomoc\xED
-    optick\xFDch dalekohled\u016F, ale vysok\xE9 teploty a hust\xE1 atmosf\xE9ra
-    z n\xED \u010Din\xED zaj\xEDmav\xFD c\xEDl pro v\xFDzkum pomoc\xED radarov\xFDch
-    pr\u016Fzkum\u016F a jin\xFDch vysp\u011Bl\xFDch technologi\xED.\r\n\r\nVenu\u0161e
-    ob\xEDh\xE1 Slunce za p\u0159ibli\u017En\u011B 225 pozemsk\xFDch dn\xED a rotuje
-    kolem sv\xE9 osy pomalu, jednou rotac\xED za p\u0159ibli\u017En\u011B 243 pozemsk\xFDch
-    dn\xED, co\u017E znamen\xE1, \u017Ee jeden den na Venu\u0161i trv\xE1 d\xE9le
-    ne\u017E jeden rok. Na povrchu planety jsou zaznamen\xE1ny mohutn\xE9 v\u011Btry,
-    kter\xE9 dosahuj\xED rychlost\xED a\u017E 360 km/h. V sou\u010Dasn\xE9 dob\u011B
-    Venu\u0161i zkoum\xE1 n\u011Bkolik kosmick\xFDch mis\xED, v\u010Detn\u011B sondy
-    BepiColombo, kter\xE1 byla vypu\u0161t\u011Bna v roce 2018.\r\n\r\n\r\n\r\n\r\nZem\u011B
-    \r\nje t\u0159et\xED planetou od Slunce v na\u0161\xED slune\u010Dn\xED soustav\u011B
-    a je jedinou planetou, na kter\xE9 je zn\xE1mo, \u017Ee existuje \u017Eivot.
-    Zem\u011B m\xE1 kruhov\xFD tvar a je pokryta vodou ze zhruba 71% povrchu.\r\n\r\nZem\u011B
-    m\xE1 atmosf\xE9ru slo\u017Eenou p\u0159ev\xE1\u017En\u011B z dus\xEDku (78%)
-    a kysl\xEDku (21%), kter\xE1 chr\xE1n\xED povrch planety p\u0159ed \u0161kodliv\xFDm
-    slune\u010Dn\xEDm z\xE1\u0159en\xEDm a poskytuje kysl\xEDk, kter\xFD je nezbytn\xFD
-    pro \u017Eivot.\r\n\r\nZem\u011B m\xE1 jeden m\u011Bs\xEDc, M\u011Bs\xEDc, kter\xFD
-    ob\xEDh\xE1 kolem n\xED a ovliv\u0148uje p\u0159\xEDlivy a odlivy. Zem\u011B
-    m\xE1 tak\xE9 magnetick\xE9 pole, kter\xE9 chr\xE1n\xED planetu p\u0159ed kosmick\xFDm
-    z\xE1\u0159en\xEDm a slune\u010Dn\xEDm v\u011Btrem.\r\n\r\nZem\u011B se ot\xE1\u010D\xED
-    kolem sv\xE9 osy ka\u017Ed\xFDch 24 hodin, co\u017E zp\u016Fsobuje st\u0159\xEDd\xE1n\xED
-    dne a noci. Ob\u011Bh Zem\u011B kolem Slunce trv\xE1 365,24 pozemsk\xFDch dn\u016F
-    a tento cyklus tvo\u0159\xED rok.\r\n\r\nZem\u011B je domovem mnoha druh\u016F
-    \u017Eivota, v\u010Detn\u011B rostlin, zv\xED\u0159at a lid\xED. Lid\xE9 vyu\u017E\xEDvaj\xED
-    p\u0159\xEDrodn\xED zdroje, jako jsou voda, p\u016Fda a vzduch, a vytv\xE1\u0159ej\xED
-    sv\xE9 vlastn\xED technologie, aby mohli \u017E\xEDt a prosperovat na t\xE9to
-    planet\u011B.\r\n\r\n\r\n\r\n\r\nMars\r\nje planeta v na\u0161\xED slune\u010Dn\xED
-    soustav\u011B a je \u010Dtvrtou planetou od Slunce. Mars je pojmenov\xE1n po
-    \u0159\xEDmsk\xE9m bohu v\xE1lky, kv\u016Fli sv\xE9 rud\xE9 barv\u011B, kter\xE1
-    je zp\u016Fsobena oxidem \u017Eelezit\xFDm na jeho povrchu.\r\n\r\nMars je men\u0161\xED
-    ne\u017E Zem\u011B a m\xE1 velmi \u0159\xEDdkou atmosf\xE9ru slo\u017Eenou p\u0159ev\xE1\u017En\u011B
-    z oxidu uhli\u010Dit\xE9ho. Teploty na povrchu Marsu jsou velmi n\xEDzk\xE9,
-    pr\u016Fm\u011Brn\u011B okolo -60\xB0C, ale v extr\xE9mn\xEDch oblastech se mohou
-    dostat a\u017E na -140\xB0C. Mars m\xE1 tak\xE9 dv\u011B mal\xE9 m\u011Bs\xEDce,
-    Phobos a Deimos.\r\n\r\nMars je hornat\xE1 planeta s mnoha \xFAdol\xEDmi a kr\xE1tery.
-    Na povrchu Marsu jsou viditeln\xE9 mohutn\xE9 sopky, v\u010Detn\u011B nejvy\u0161\u0161\xED
-    sopky ve slune\u010Dn\xED soustav\u011B, Olympus Mons, kter\xE1 dosahuje v\xFD\u0161ky
-    22 km. Mars tak\xE9 obsahuje nejv\u011Bt\u0161\xED \xFAdol\xED ve slune\u010Dn\xED
-    soustav\u011B, Valles Marineris, kter\xE9 je \u0161irok\xE9 a\u017E 200 km a
-    dlouh\xE9 t\xE9m\u011B\u0159 4 000 km.\r\n\r\nV\u011Bdci se zaj\xEDmaj\xED o
-    Mars jako o potenci\xE1ln\xED c\xEDl pro budouc\xED lidsk\xE9 mise. Mars m\xE1
-    podobn\xE9 vlastnosti jako Zem\u011B a v minulosti byly na jeho povrchu nalezeny
-    stopy vody. V sou\u010Dasnosti na Marsu funguje n\u011Bkolik kosmick\xFDch mis\xED,
-    kter\xE9 zkoumaj\xED jeho atmosf\xE9ru, povrch, geologii a dal\u0161\xED oblasti.
-    Mezi nejzn\xE1m\u011Bj\u0161\xED mise pat\u0159\xED sonda Curiosity, kter\xE1
-    p\u0159ist\xE1la na Marsu v roce 2012, a mise Perseverance, kter\xE1 p\u0159ist\xE1la
-    na Marsu v \xFAnoru 2021 a hled\xE1 stopy \u017Eivota na Marsu.\r\n\r\n\r\n\r\n\r\nJupiter
-    \r\nje nejv\u011Bt\u0161\xED planetou v na\u0161\xED slune\u010Dn\xED soustav\u011B.
-    Nach\xE1z\xED se na p\xE1t\xE9 pozici od Slunce a je pojmenov\xE1n po \u0159\xEDmsk\xE9m
-    kr\xE1li boh\u016F. Jupiter m\xE1 velmi kr\xE1tk\xFD den, pouh\xFDch 9 hodin
-    a 56 minut, a ob\xEDh\xE1 kolem Slunce jednou za 12 pozemsk\xFDch let.\r\n\r\nJupiter
-    je plynn\xFD obr s velmi siln\xFDm magnetick\xFDm polem. Jeho atmosf\xE9ra se
-    skl\xE1d\xE1 hlavn\u011B z vod\xEDku a helia, s mal\xFDm mno\u017Estv\xEDm t\u011B\u017E\u0161\xEDch
-    prvk\u016F. Na Jupiteru jsou tak\xE9 viditeln\xE9 velk\xE9 p\xE1sy obla\u010Dnosti,
-    v\u010Detn\u011B Velk\xE9 rud\xE9 skvrny, ob\u0159\xEDho cyklonick\xE9ho vrtu,
-    kter\xFD je mnohem v\u011Bt\u0161\xED ne\u017E Zem\u011B.\r\n\r\nJupiter m\xE1
-    nejm\xE9n\u011B 79 m\u011Bs\xEDc\u016F, v\u010Detn\u011B nejv\u011Bt\u0161\xEDho
-    m\u011Bs\xEDce v na\u0161\xED slune\u010Dn\xED soustav\u011B, Ganymeda. Jupiter
-    tak\xE9 m\xE1 velmi hust\xFD prstenec, kter\xFD je tvo\u0159en p\u0159ev\xE1\u017En\u011B
-    ledov\xFDmi \u010D\xE1sticemi.\r\n\r\nJupiter je zaj\xEDmav\xFD pro v\u011Bdce,
-    kte\u0159\xED se sna\u017E\xED l\xE9pe pochopit procesy v na\u0161\xED slune\u010Dn\xED
-    soustav\u011B. Jupiter m\xE1 tak\xE9 v\xFDznamn\xFD vliv na dr\xE1hy ostatn\xEDch
-    planet v na\u0161\xED slune\u010Dn\xED soustav\u011B, zejm\xE9na na vn\u011Bj\u0161\xED
-    planety. Jupiter je studov\xE1n r\u016Fzn\xFDmi kosmick\xFDmi sondami, v\u010Detn\u011B
-    sond Voyager, Galileo, Juno a dal\u0161\xEDch.\r\n\r\n\r\n\r\n\r\nSaturn \r\nje
-    planeta v na\u0161\xED slune\u010Dn\xED soustav\u011B a nach\xE1z\xED se na \u0161est\xE9
-    pozici od Slunce. Je to druh\xE1 nejv\u011Bt\u0161\xED planeta v na\u0161\xED
-    slune\u010Dn\xED soustav\u011B a je pojmenov\xE1na po \u0159\xEDmsk\xE9m bohu
-    zem\u011Bd\u011Blstv\xED.\r\n\r\nSaturn m\xE1 velmi rozs\xE1hl\xFD prstenec,
-    kter\xFD se skl\xE1d\xE1 p\u0159ev\xE1\u017En\u011B z ledov\xFDch \u010D\xE1stic.
-    Tyto prstence jsou pozorovateln\xE9 z pozemsk\xFDch dalekohled\u016F a jsou jedn\xEDm
-    z nejv\xFDrazn\u011Bj\u0161\xEDch prvk\u016F v na\u0161\xED slune\u010Dn\xED
-    soustav\u011B.\r\n\r\nSaturn m\xE1 podobnou slo\u017Een\xED atmosf\xE9ry jako
-    Jupiter, s vysok\xFDm pod\xEDlem vod\xEDku a helia. Na jeho povrchu jsou tak\xE9
-    viditeln\xE9 p\xE1sy obla\u010Dnosti, ale jsou m\xE9n\u011B n\xE1padn\xE9 ne\u017E
-    u Jupiteru. Saturn m\xE1 tak\xE9 mnoho m\u011Bs\xEDc\u016F, v\u010Detn\u011B
-    Tit\xE1na, nejv\u011Bt\u0161\xEDho m\u011Bs\xEDce Saturnu, kter\xFD m\xE1 hustou
-    atmosf\xE9ru a je jedn\xEDm z m\xE1la m\xEDst v na\u0161\xED slune\u010Dn\xED
-    soustav\u011B, kde jsou pozorov\xE1ny tekutiny na povrchu.\r\n\r\nSaturn je studov\xE1n
-    r\u016Fzn\xFDmi kosmick\xFDmi sondami, v\u010Detn\u011B sondy Cassini, kter\xE1
-    v roce 2004 dorazila k Saturnu a prov\xE1d\u011Bla podrobn\xFD pr\u016Fzkum jeho
-    atmosf\xE9ry a prstenc\u016F.\r\n\r\n\r\n\r\n\r\nUran \r\nje planeta v na\u0161\xED
-    slune\u010Dn\xED soustav\u011B a nach\xE1z\xED se na sedm\xE9 pozici od Slunce.
-    Uran je pojmenov\xE1n po \u0159eck\xE9m bohu nebe a je jedinou planetou, kter\xE1
-    je pojmenov\xE1na po \u0159eck\xE9m, nikoliv \u0159\xEDmsk\xE9m bohu.\r\n\r\nUran
-    m\xE1 slo\u017Een\xED podobn\xE9 plynn\xFDm ob\u0159\xEDm planet\xE1m Jupiteru
-    a Saturnu, ale je men\u0161\xED a m\xE1 ni\u017E\u0161\xED hmotnost. Na rozd\xEDl
-    od Jupiteru a Saturnu m\xE1 Uran m\xE9n\u011B z\u0159eteln\xE9 p\xE1sy obla\u010Dnosti
-    a m\xEDsto toho m\xE1 mnoho slab\xFDch prou\u017Ek\u016F a skvrn na jeho povrchu.\r\n\r\nUran
-    m\xE1 velmi excentrickou dr\xE1hu a jeho osa rotace je sklon\u011Bna t\xE9m\u011B\u0159
-    kolmo na rovinu jeho ob\u011B\u017En\xE9 dr\xE1hy. To zp\u016Fsobuje, \u017Ee
-    na Uranu jsou extr\xE9mn\xED ro\u010Dn\xED obdob\xED, b\u011Bhem nich\u017E jeden
-    p\xF3l sm\u011B\u0159uje k Slunci a druh\xFD p\xF3l je v temnot\u011B.\r\n\r\nUran
-    m\xE1 27 zn\xE1m\xFDch m\u011Bs\xEDc\u016F, z nich\u017E nejv\u011Bt\u0161\xED
-    jsou Miranda, Ariel, Umbriel, Titania a Oberon. Tyto m\u011Bs\xEDce maj\xED r\u016Fzn\xE9
-    povrchov\xE9 rysy a jsou v\xFDznamn\xE9 pro v\u011Bdeck\xFD v\xFDzkum.\r\n\r\nUran
-    byl studov\xE1n n\u011Bkolika kosmick\xFDmi sondami, v\u010Detn\u011B Voyageru
-    2, kter\xFD prol\xE9tl kolem planety v roce 1986.\r\n\r\n\r\n\r\n\r\nNeptun \r\nje
-    planeta v na\u0161\xED slune\u010Dn\xED soustav\u011B a nach\xE1z\xED se na osm\xE9
-    pozici od Slunce. Je to druh\xE1 nejvzd\xE1len\u011Bj\u0161\xED planeta od Slunce
-    a byla pojmenov\xE1na po \u0159\xEDmsk\xE9m mo\u0159sk\xE9m bohu.\r\n\r\nNeptun
-    m\xE1 slo\u017Een\xED podobn\xE9 Uranu a je tvo\u0159en p\u0159ev\xE1\u017En\u011B
-    plynnou atmosf\xE9rou z vod\xEDku, helia a mal\xE9ho mno\u017Estv\xED t\u011B\u017E\u0161\xEDch
-    prvk\u016F. Na povrchu Neptunu jsou viditeln\xE9 p\xE1sy obla\u010Dnosti, podobn\u011B
-    jako u Jupiteru a Saturnu.\r\n\r\nNeptun m\xE1 mnoho m\u011Bs\xEDc\u016F, z nich\u017E
-    nejv\u011Bt\u0161\xED je Triton, kter\xFD je nejv\u011Bt\u0161\xEDm m\u011Bs\xEDcem
-    v na\u0161\xED slune\u010Dn\xED soustav\u011B, kter\xFD ob\xEDh\xE1 ve sm\u011Bru
-    opa\u010Dn\xE9m k rotaci planety. Triton m\xE1 tak\xE9 atmosf\xE9ru, kter\xE1
-    je podobn\xE1 atmosf\xE9\u0159e na povrchu Neptunu.\r\n\r\nNeptun m\xE1 tak\xE9
-    velmi daleko od Slunce vzd\xE1lenou ob\u011B\u017Enou dr\xE1hu a je studov\xE1n
-    kosmick\xFDmi sondami, jako je nap\u0159\xEDklad Voyager 2, kter\xFD prol\xE9tl
-    kolem planety v roce 1989.\r\n\r\n\r"
+  m_text: "\r\nFormov\xE1n\xED dne\u0161n\xEDch kontinent\u016F z prad\xE1vn\xE9ho
+    superkontinentu Pangea je fascinuj\xEDc\xED p\u0159\xEDb\u011Bh o tektonice desek,
+    kter\xFD formoval na\u0161i planetu po miliony let. P\u0159ed v\xEDce ne\u017E
+    250 miliony let, v obdob\xED pozdn\xEDho paleozoika a ran\xE9ho mezozoika, v\u0161echny
+    dne\u0161n\xED kontinenty tvo\u0159ily jedin\xFD obrovsk\xFD superkontinent nazvan\xFD
+    Pangea. Tento superkontinent byl obklopen rozlehl\xFDm oce\xE1nem zvan\xFDm Panthalassa.\r\n\r\nRozpad
+    Pangey, kter\xFD za\u010Dal v obdob\xED triasu, p\u0159ed zhruba 200 miliony
+    let, byl kritick\xFDm momentem v geologick\xE9 historii Zem\u011B. Tento proces
+    byl poh\xE1n\u011Bn dynamikou tektonick\xFDch desek, v\u010Detn\u011B mantlov\xE9
+    konvekce a rozp\xEDn\xE1n\xED oce\xE1nsk\xE9ho dna. Jak se Pangea rozpadala,
+    vznikaly dv\u011B hlavn\xED zemsk\xE9 masy: severn\xED Laurasia a ji\u017En\xED
+    Gondwana.\r\n\r\nRozd\u011Blen\xED Pangey nebylo rychl\xFDm ani jednotn\xFDm
+    procesem. Postupovalo v n\u011Bkolika f\xE1z\xEDch, p\u0159i\u010Dem\u017E ka\u017Ed\xE1
+    f\xE1ze m\u011Bla z\xE1sadn\xED vliv na uspo\u0159\xE1d\xE1n\xED kontinent\u016F,
+    jak je zn\xE1me dnes. Gondwana se d\xE1le rozpadla na kontinenty jako je Afrika,
+    Ji\u017En\xED Amerika, Austr\xE1lie, Antarktida a Indick\xFD subkontinent. Laurasia
+    se rozpadla na Severn\xED Ameriku a Eurasii.\r\n\r\nB\u011Bhem tohoto dlouh\xE9ho
+    procesu byly oce\xE1ny jako Atlantik a Indick\xFD oce\xE1n vytvo\u0159eny a roz\u0161i\u0159ov\xE1ny.
+    Formace t\u011Bchto oce\xE1n\u016F a pohyb kontinent\u016F m\u011Bly dalekos\xE1hl\xFD
+    vliv na klimatick\xE9 podm\xEDnky, migraci druh\u016F a v\xFDvoj biodiverzity
+    na Zemi.\r\n\r\nRozpad Pangey a n\xE1sledn\xFD pohyb kontinent\u016F tak\xE9
+    ovlivnil glob\xE1ln\xED geografii. V\xFDznamn\xE9 geologick\xE9 ud\xE1losti,
+    jako jsou zem\u011Bt\u0159esen\xED, sope\u010Dn\xE9 erupce a vznik poho\u0159\xED,
+    byly p\u0159\xEDm\xFDm d\u016Fsledkem t\u011Bchto tektonick\xFDch pohyb\u016F.\r\n\r\nV\xFDzkum
+    a studium formov\xE1n\xED dne\u0161n\xEDch kontinent\u016F z Pangey pokra\u010Duje
+    a nab\xEDz\xED n\xE1hled na komplexn\xED a dynamickou historii na\u0161\xED planety.
+    Tento proces, kter\xFD trval miliony let, nejen\u017Ee formoval fyzickou podobu
+    Zem\u011B, ale tak\xE9 ovlivnil v\xFDvoj \u017Eivota, klimatick\xFDch podm\xEDnek
+    a samotn\xE9ho prost\u0159ed\xED, v n\u011Bm\u017E \u017Eijeme."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7898,8 +7786,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9a039b1fc7c8e664a9a40554ebbc4e65, type: 2}
-  m_sharedMaterial: {fileID: 7410471961368377413, guid: 9a039b1fc7c8e664a9a40554ebbc4e65, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -8568,7 +8456,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 8136.434}
+  m_SizeDelta: {x: 0, y: 1500}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &2051280387
 MonoBehaviour:
@@ -8878,6 +8766,10 @@ PrefabInstance:
     - target: {fileID: 6610292497384737282, guid: 06a46351c5b21a34b976cf91a323a703, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526757771989712243, guid: 06a46351c5b21a34b976cf91a323a703, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06a46351c5b21a34b976cf91a323a703, type: 3}
